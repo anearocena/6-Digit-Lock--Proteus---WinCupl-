@@ -72,6 +72,7 @@ Cada transición ocurre tras un pulso del botón si el dígito es correcto.
 
 ## 📸 Ejemplo visual
 
-*(Incluye aquí una imagen del circuito o la simulación)*  
+*<img width="808" height="527" alt="image" src="https://github.com/user-attachments/assets/c458f891-0037-4d6e-ba81-43262750a18c" />
+*  
 ```markdown
 ![Simulación en Proteus](images/proteus-simulation.png)
